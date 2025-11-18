@@ -1,7 +1,3 @@
-# bot.py — LoanLink
-# 停止期間UI + 追加/削除 + 備考欄付き + Admin手動貸出
-# + 貸出申請通知メンション + プロジェクト単位複数台申請
-
 import os, json, base64
 from datetime import datetime, timedelta, timezone, date
 from typing import Optional, List, Tuple
